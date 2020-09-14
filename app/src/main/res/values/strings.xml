@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AndroidApp2</string>
+    <string name="button1">Button1</string>
+    <string name="title_activity_exposition_value1">Klasy ekspozycji</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="kgm3">kg/m<sup>3</sup></string>
+    <string name="EN1971">EN 197-1 <sup>1)</sup></string>
+    <string name="CEMI">CEM I <sup>2)</sup></string>
+    <string name="CEMIIA">CEM II/A <sup>2)</sup></string>
+    <string name="min_zawarto_cementu">  Min. zawartość cementu</string>
+    <string name="min_zaw_dodatku">  Min. zawartość dodatku popiołu lotnego zg. z EN 450-1</string>
+    <string-array name="klasyEksozycjiArray">
+        <item>X0</item>
+        <item>XC1</item>
+        <item>XC2</item>
+        <item>XC3</item>
+        <item>XC4</item>
+        <item>XS1</item>
+        <item>XS2</item>
+        <item>XS3</item>
+        <item>XD1</item>
+        <item>XD2</item>
+        <item>XD3</item>
+        <item>XF1</item>
+        <item>XF2</item>
+        <item>XF3</item>
+        <item>XF4</item>
+        <item>XA1</item>
+        <item>XA2</item>
+        <item>XA3</item>
+    </string-array>
+
+</resources>
